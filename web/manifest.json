@@ -1,6 +1,6 @@
 {
-    "name": "seedfund_capstone",
-    "short_name": "seedfund_capstone",
+    "name": "charify",
+    "short_name": "charify",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
